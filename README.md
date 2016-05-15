@@ -2,6 +2,8 @@
 
 Compare two images (before/after)
 
+![Example](https://raw.github.com/endorfin/react-image-comparison-slider/master/example.jpg)
+
 ## Usage
 
 ```
